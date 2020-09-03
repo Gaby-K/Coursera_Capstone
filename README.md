@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera_Capstone: Prediction model of accident severity
 
 <b>Introduction</b>
 
