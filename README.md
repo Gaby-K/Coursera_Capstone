@@ -1,4 +1,5 @@
 # Coursera_Capstone: Prediction model of accident severity
+Complete report please check https://www.supertasteofdata.com/post/ibm-capstone-project-prediction-model-of-accident-severity
 
 <b>Introduction</b>
 
